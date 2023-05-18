@@ -1,6 +1,6 @@
 # Pymaceuticals
  Matplotlib Pharmaceutical Drug Analysis
-Using MatPlotLib and Pandas Python libraries in a Jupyter notebook, the following is generated:
+Using MatPlotLib and Pandas Python libraries in a Jupyter notebook:
 
 A summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 
